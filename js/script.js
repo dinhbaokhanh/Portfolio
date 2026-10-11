@@ -3,7 +3,6 @@ document.addEventListener('DOMContentLoaded', () => {
     'Sinh viên năm cuối PTIT',
     'Full-stack Developer',
     'Giảng viên MindX',
-    'Cựu Amser',
   ]
 
   const textElement = document.querySelector('.typing-text')
